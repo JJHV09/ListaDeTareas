@@ -1,0 +1,30 @@
+body{ background-color: rgb(172, 23, 23);
+    font-family: arial, sans-serif;
+    color: rgb(232, 221, 8);
+
+}
+
+#PrimerDiv{
+
+    text-align: center;
+}
+
+input{
+    width: 600px;
+    height:25px;
+}
+
+#BtnAgregar{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(226, 233, 11);
+    color: rgb(0, 0, 0);
+
+}
+
+#BtnEliminar{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(226, 233, 11);
+    color: rgb(0, 0, 0);
+}
